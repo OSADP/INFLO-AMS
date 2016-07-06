@@ -1,0 +1,11 @@
+C:\Users\h-charara\Documents\00-Projects\INFLO\INFLOApps\INFLOApps\bin\Debug\INFLOApps.exe.config
+C:\Users\h-charara\Documents\00-Projects\INFLO\INFLOApps\INFLOApps\bin\Debug\INFLOApps.exe
+C:\Users\h-charara\Documents\00-Projects\INFLO\INFLOApps\INFLOApps\bin\Debug\INFLOApps.pdb
+C:\Users\h-charara\Documents\00-Projects\INFLO\INFLOApps\INFLOApps\bin\Debug\INFLO.dll
+C:\Users\h-charara\Documents\00-Projects\INFLO\INFLOApps\INFLOApps\bin\Debug\INFLO.pdb
+C:\Users\h-charara\Documents\00-Projects\INFLO\INFLOApps\INFLOApps\obj\Debug\INFLOApps.csprojResolveAssemblyReference.cache
+C:\Users\h-charara\Documents\00-Projects\INFLO\INFLOApps\INFLOApps\obj\Debug\INFLOApps.frmINFLOApps.resources
+C:\Users\h-charara\Documents\00-Projects\INFLO\INFLOApps\INFLOApps\obj\Debug\INFLOApps.Properties.Resources.resources
+C:\Users\h-charara\Documents\00-Projects\INFLO\INFLOApps\INFLOApps\obj\Debug\INFLOApps.csproj.GenerateResource.Cache
+C:\Users\h-charara\Documents\00-Projects\INFLO\INFLOApps\INFLOApps\obj\Debug\INFLOApps.exe
+C:\Users\h-charara\Documents\00-Projects\INFLO\INFLOApps\INFLOApps\obj\Debug\INFLOApps.pdb

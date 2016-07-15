@@ -1,0 +1,50 @@
+RELEASE-NOTES:
+The code version available in this folder is similar to the codebase available as INFLO-SIM in OSADP which was developed by Texas Transportation Institute and Kittelson Associates.
+
+Booz Allen made revisions to the code for the AMS Project and these changes are described below:
+1. Ported INFLO from 32-bit to 64-bit libraries.
+2. Removed bugs that prevented writing certain values to the Access Database.
+3. Reconfigured Access Database to utilize values from Vissim 6/7.
+4. Added a Master File to manage simulations and batch them using Vissim 6/7.
+
+License information
+-------------------
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this
+file except in compliance with the License.
+You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software distributed under
+the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied. See the License for the specific language governing
+permissions and limitations under the License.
+
+System Requirements
+-------------------------
+8 GB RAM min.
+3 GHz Processing Power
+Windows 7 OS.
+Vissim 6 or 7 Software.
+Microsoft Access 2013.
+
+Documentation
+-------------
+Installation instructions:
+1. Install Python 2.7 (64-bit)
+2. Install following Python Libraries
+	a. sys
+	b. win32com
+	c. pythoncom
+	d. json
+3. Microsoft Office 2010 Interop Assemblies
+4. Microsoft Visual Studio Express 2012
+5. Vissim 6 or 7 with COM server registered.
+
+How to Initiate:
+----------------
+Initiation instructions are similar to INFLO-SIM available on the OSADP.
+1. Build INFLO Application using the Visual Studio Solution file available in the application folder.
+2. Configure INFLO in ..\Application Folder\INFLOApps\bin\Release\Config\INFLOConfig.xml and ..\INFLODatabase.acccdb
+3. Initiate INFLO application using the following rebuild: ..\Application Folder\INFLOApps\bin\Release\INFLOApps.exe
+4. Provide the following location for sync-file: ..\Data.txt
+5. Edit MasterFile.py to match network geometry, simulation time-line, Vissim Files etc. and Run MasterFile.py. 
+
+
